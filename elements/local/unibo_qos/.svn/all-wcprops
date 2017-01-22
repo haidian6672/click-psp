@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/click-router/!svn/ver/21/elements/local/unibo_qos
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/click-router/!svn/ver/21/elements/local/unibo_qos/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/click-router/!svn/ver/21/elements/local/unibo_qos/Makefile.in
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/click-router/!svn/ver/21/elements/local/unibo_qos/configure.ac
+END

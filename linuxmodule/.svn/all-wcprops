@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/click-router/!svn/ver/1/linuxmodule
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/click-router/!svn/ver/1/linuxmodule/Makefile.in
+END
+clickfs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/click-router/!svn/ver/1/linuxmodule/clickfs.cc
+END
+proclikefs.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/click-router/!svn/ver/1/linuxmodule/proclikefs.c
+END
+modulepriv.hh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/click-router/!svn/ver/1/linuxmodule/modulepriv.hh
+END
+fixincludes.pl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/click-router/!svn/ver/1/linuxmodule/fixincludes.pl
+END
+kernelversion.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/click-router/!svn/ver/1/linuxmodule/kernelversion.c
+END
+proclikefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/click-router/!svn/ver/1/linuxmodule/proclikefs.h
+END
+config.cc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/click-router/!svn/ver/1/linuxmodule/config.cc
+END
+module.cc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/click-router/!svn/ver/1/linuxmodule/module.cc
+END
+read-pmc.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/click-router/!svn/ver/1/linuxmodule/read-pmc.c
+END
+skbmgr.cc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/click-router/!svn/ver/1/linuxmodule/skbmgr.cc
+END
+sched.cc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/click-router/!svn/ver/1/linuxmodule/sched.cc
+END
+moduleparm.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/click-router/!svn/ver/1/linuxmodule/moduleparm.h
+END

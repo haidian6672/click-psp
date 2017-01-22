@@ -1,0 +1,91 @@
+8
+
+dir
+28
+http://202.197.12.233:8080/svn/click-router/tools
+http://202.197.12.233:8080/svn/click-router
+
+
+
+2013-08-31T07:02:40.609375Z
+1
+zxz
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+df28c4fd-dde6-d848-aaa4-224394e63efb
+
+click-flatten
+dir
+
+Makefile.in
+file
+
+
+
+
+2013-09-03T01:16:02.156250Z
+c551dfea7b6e8d36f44794642b26dc2f
+2013-08-31T07:02:40.609375Z
+1
+zxz
+
+click-undead
+dir
+
+click-fastclassifier
+dir
+
+click2xml
+dir
+
+click-install
+dir
+
+click-devirtualize
+dir
+
+click-viz
+file
+
+
+
+
+2013-09-03T01:16:02.156250Z
+e56fde54f74297e2c5e1144cc3aee8a1
+2013-08-31T07:02:40.609375Z
+1
+zxz
+
+click-combine
+dir
+
+click-check
+dir
+
+lib
+dir
+
+click-pretty
+dir
+
+click-mkmindriver
+dir
+
+click-align
+dir
+
+click-xform
+dir
+

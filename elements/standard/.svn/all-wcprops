@@ -1,0 +1,1031 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/click-router/!svn/ver/22/elements/standard
+END
+randomsample.hh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/click-router/!svn/ver/1/elements/standard/randomsample.hh
+END
+shaper.hh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/click-router/!svn/ver/1/elements/standard/shaper.hh
+END
+markmacheader.hh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/click-router/!svn/ver/1/elements/standard/markmacheader.hh
+END
+suppressor.hh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/click-router/!svn/ver/1/elements/standard/suppressor.hh
+END
+drr.hh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/click-router/!svn/ver/1/elements/standard/drr.hh
+END
+setcrc32.hh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/click-router/!svn/ver/1/elements/standard/setcrc32.hh
+END
+hashswitch.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/click-router/!svn/ver/1/elements/standard/hashswitch.cc
+END
+pullswitch.hh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/click-router/!svn/ver/1/elements/standard/pullswitch.hh
+END
+simplequeue.hh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/click-router/!svn/ver/1/elements/standard/simplequeue.hh
+END
+randomsource.hh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/click-router/!svn/ver/1/elements/standard/randomsource.hh
+END
+strip.hh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/click-router/!svn/ver/1/elements/standard/strip.hh
+END
+priosched.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/click-router/!svn/ver/1/elements/standard/priosched.cc
+END
+delayunqueue.hh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/click-router/!svn/ver/1/elements/standard/delayunqueue.hh
+END
+discardnofree.hh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/click-router/!svn/ver/1/elements/standard/discardnofree.hh
+END
+painttee.hh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/click-router/!svn/ver/1/elements/standard/painttee.hh
+END
+notifierqueue.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/click-router/!svn/ver/1/elements/standard/notifierqueue.cc
+END
+checklength.hh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/click-router/!svn/ver/1/elements/standard/checklength.hh
+END
+settimestamp.hh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/click-router/!svn/ver/1/elements/standard/settimestamp.hh
+END
+align.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/click-router/!svn/ver/1/elements/standard/align.cc
+END
+flowinfo.hh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/click-router/!svn/ver/1/elements/standard/flowinfo.hh
+END
+truncate.hh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/click-router/!svn/ver/1/elements/standard/truncate.hh
+END
+drivermanager.hh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/click-router/!svn/ver/1/elements/standard/drivermanager.hh
+END
+timedsink.hh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/click-router/!svn/ver/1/elements/standard/timedsink.hh
+END
+setannobyte.hh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/click-router/!svn/ver/1/elements/standard/setannobyte.hh
+END
+classification.hh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/click-router/!svn/ver/1/elements/standard/classification.hh
+END
+fullnotequeue.hh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/click-router/!svn/ver/1/elements/standard/fullnotequeue.hh
+END
+discard.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/click-router/!svn/ver/1/elements/standard/discard.cc
+END
+staticswitch.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/click-router/!svn/ver/1/elements/standard/staticswitch.cc
+END
+unqueue2.hh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/click-router/!svn/ver/1/elements/standard/unqueue2.hh
+END
+strideswitch.hh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/click-router/!svn/ver/1/elements/standard/strideswitch.hh
+END
+idle.hh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/click-router/!svn/ver/1/elements/standard/idle.hh
+END
+frontdropqueue.hh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/click-router/!svn/ver/1/elements/standard/frontdropqueue.hh
+END
+paintswitch.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/click-router/!svn/ver/1/elements/standard/paintswitch.cc
+END
+devirtualizeinfo.hh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/click-router/!svn/ver/1/elements/standard/devirtualizeinfo.hh
+END
+timedsource.hh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/click-router/!svn/ver/1/elements/standard/timedsource.hh
+END
+nullelement.hh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/click-router/!svn/ver/1/elements/standard/nullelement.hh
+END
+msqueue.hh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/click-router/!svn/ver/1/elements/standard/msqueue.hh
+END
+infinitesource.hh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/click-router/!svn/ver/1/elements/standard/infinitesource.hh
+END
+delayshaper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/click-router/!svn/ver/1/elements/standard/delayshaper.cc
+END
+switch.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/click-router/!svn/ver/1/elements/standard/switch.cc
+END
+unqueue.hh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/click-router/!svn/ver/1/elements/standard/unqueue.hh
+END
+clickyinfo.hh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/click-router/!svn/ver/1/elements/standard/clickyinfo.hh
+END
+block.hh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/click-router/!svn/ver/1/elements/standard/block.hh
+END
+linkunqueue.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/click-router/!svn/ver/1/elements/standard/linkunqueue.cc
+END
+print.hh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/click-router/!svn/ver/1/elements/standard/print.hh
+END
+staticpullswitch.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/click-router/!svn/ver/1/elements/standard/staticpullswitch.cc
+END
+nulls.hh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/click-router/!svn/ver/1/elements/standard/nulls.hh
+END
+bwratedunqueue.hh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/click-router/!svn/ver/1/elements/standard/bwratedunqueue.hh
+END
+averagecounter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/click-router/!svn/ver/1/elements/standard/averagecounter.cc
+END
+stridesched.hh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/click-router/!svn/ver/1/elements/standard/stridesched.hh
+END
+striptonet.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/click-router/!svn/ver/1/elements/standard/striptonet.cc
+END
+script.hh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/click-router/!svn/ver/1/elements/standard/script.hh
+END
+hub.cc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/click-router/!svn/ver/1/elements/standard/hub.cc
+END
+ratedunqueue.hh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/click-router/!svn/ver/1/elements/standard/ratedunqueue.hh
+END
+randomsample.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/click-router/!svn/ver/1/elements/standard/randomsample.cc
+END
+shaper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/click-router/!svn/ver/1/elements/standard/shaper.cc
+END
+markmacheader.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/click-router/!svn/ver/1/elements/standard/markmacheader.cc
+END
+dropbroadcasts.hh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/click-router/!svn/ver/1/elements/standard/dropbroadcasts.hh
+END
+timedunqueue.hh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/click-router/!svn/ver/1/elements/standard/timedunqueue.hh
+END
+mixedqueue.hh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/click-router/!svn/ver/1/elements/standard/mixedqueue.hh
+END
+suppressor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/click-router/!svn/ver/1/elements/standard/suppressor.cc
+END
+drr.cc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/click-router/!svn/ver/1/elements/standard/drr.cc
+END
+setcrc32.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/click-router/!svn/ver/1/elements/standard/setcrc32.cc
+END
+pullswitch.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/click-router/!svn/ver/1/elements/standard/pullswitch.cc
+END
+simplequeue.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/click-router/!svn/ver/1/elements/standard/simplequeue.cc
+END
+setpackettype.hh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/click-router/!svn/ver/1/elements/standard/setpackettype.hh
+END
+ratedsplitter.hh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/click-router/!svn/ver/1/elements/standard/ratedsplitter.hh
+END
+annotationinfo.hh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/click-router/!svn/ver/1/elements/standard/annotationinfo.hh
+END
+randomsource.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/click-router/!svn/ver/1/elements/standard/randomsource.cc
+END
+addressinfo.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/click-router/!svn/ver/1/elements/standard/addressinfo.cc
+END
+strip.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/click-router/!svn/ver/22/elements/standard/strip.cc
+END
+errorelement.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/click-router/!svn/ver/1/elements/standard/errorelement.cc
+END
+randomerror.hh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/click-router/!svn/ver/1/elements/standard/randomerror.hh
+END
+delayunqueue.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/click-router/!svn/ver/1/elements/standard/delayunqueue.cc
+END
+discardnofree.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/click-router/!svn/ver/1/elements/standard/discardnofree.cc
+END
+painttee.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/click-router/!svn/ver/1/elements/standard/painttee.cc
+END
+bandwidthmeter.hh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/click-router/!svn/ver/1/elements/standard/bandwidthmeter.hh
+END
+randomswitch.hh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/click-router/!svn/ver/1/elements/standard/randomswitch.hh
+END
+checklength.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/click-router/!svn/ver/1/elements/standard/checklength.cc
+END
+settimestamp.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/click-router/!svn/ver/1/elements/standard/settimestamp.cc
+END
+compblock.hh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/click-router/!svn/ver/1/elements/standard/compblock.hh
+END
+flowinfo.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/click-router/!svn/ver/1/elements/standard/flowinfo.cc
+END
+checkcrc32.hh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/click-router/!svn/ver/1/elements/standard/checkcrc32.hh
+END
+paint.hh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/click-router/!svn/ver/1/elements/standard/paint.hh
+END
+truncate.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/click-router/!svn/ver/1/elements/standard/truncate.cc
+END
+meter.hh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/click-router/!svn/ver/1/elements/standard/meter.hh
+END
+drivermanager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/click-router/!svn/ver/1/elements/standard/drivermanager.cc
+END
+timedsink.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/click-router/!svn/ver/1/elements/standard/timedsink.cc
+END
+bwratedsplitter.hh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/click-router/!svn/ver/1/elements/standard/bwratedsplitter.hh
+END
+counter.hh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/click-router/!svn/ver/1/elements/standard/counter.hh
+END
+setannobyte.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/click-router/!svn/ver/1/elements/standard/setannobyte.cc
+END
+classification.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/click-router/!svn/ver/1/elements/standard/classification.cc
+END
+fullnotequeue.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/click-router/!svn/ver/1/elements/standard/fullnotequeue.cc
+END
+classifier.hh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/click-router/!svn/ver/1/elements/standard/classifier.hh
+END
+burster.hh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/click-router/!svn/ver/1/elements/standard/burster.hh
+END
+rrsched.hh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/click-router/!svn/ver/1/elements/standard/rrsched.hh
+END
+messageelement.hh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/click-router/!svn/ver/1/elements/standard/messageelement.hh
+END
+unqueue2.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/click-router/!svn/ver/1/elements/standard/unqueue2.cc
+END
+quitwatcher.hh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/click-router/!svn/ver/1/elements/standard/quitwatcher.hh
+END
+strideswitch.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/click-router/!svn/ver/1/elements/standard/strideswitch.cc
+END
+idle.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/click-router/!svn/ver/1/elements/standard/idle.cc
+END
+unstrip.hh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/click-router/!svn/ver/1/elements/standard/unstrip.hh
+END
+rrswitch.hh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/click-router/!svn/ver/1/elements/standard/rrswitch.hh
+END
+quicknotequeue.hh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/click-router/!svn/ver/1/elements/standard/quicknotequeue.hh
+END
+bandwidthshaper.hh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/click-router/!svn/ver/1/elements/standard/bandwidthshaper.hh
+END
+frontdropqueue.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/click-router/!svn/ver/1/elements/standard/frontdropqueue.cc
+END
+checkpaint.hh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/click-router/!svn/ver/1/elements/standard/checkpaint.hh
+END
+devirtualizeinfo.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/click-router/!svn/ver/1/elements/standard/devirtualizeinfo.cc
+END
+timedsource.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/click-router/!svn/ver/1/elements/standard/timedsource.cc
+END
+nullelement.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/click-router/!svn/ver/1/elements/standard/nullelement.cc
+END
+msqueue.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/click-router/!svn/ver/1/elements/standard/msqueue.cc
+END
+threadsafequeue.hh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/click-router/!svn/ver/1/elements/standard/threadsafequeue.hh
+END
+infinitesource.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/click-router/!svn/ver/1/elements/standard/infinitesource.cc
+END
+tee.hh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/click-router/!svn/ver/1/elements/standard/tee.hh
+END
+unqueue.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/click-router/!svn/ver/1/elements/standard/unqueue.cc
+END
+ratedsource.hh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/click-router/!svn/ver/1/elements/standard/ratedsource.hh
+END
+clickyinfo.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/click-router/!svn/ver/1/elements/standard/clickyinfo.cc
+END
+block.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/click-router/!svn/ver/1/elements/standard/block.cc
+END
+print.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/click-router/!svn/ver/1/elements/standard/print.cc
+END
+nulls.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/click-router/!svn/ver/1/elements/standard/nulls.cc
+END
+bwratedunqueue.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/click-router/!svn/ver/1/elements/standard/bwratedunqueue.cc
+END
+storedata.hh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/click-router/!svn/ver/1/elements/standard/storedata.hh
+END
+stridesched.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/click-router/!svn/ver/1/elements/standard/stridesched.cc
+END
+script.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/click-router/!svn/ver/1/elements/standard/script.cc
+END
+ratedunqueue.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/click-router/!svn/ver/1/elements/standard/ratedunqueue.cc
+END
+dropbroadcasts.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/click-router/!svn/ver/1/elements/standard/dropbroadcasts.cc
+END
+timedunqueue.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/click-router/!svn/ver/1/elements/standard/timedunqueue.cc
+END
+mixedqueue.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/click-router/!svn/ver/1/elements/standard/mixedqueue.cc
+END
+hashswitch.hh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/click-router/!svn/ver/1/elements/standard/hashswitch.hh
+END
+setpackettype.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/click-router/!svn/ver/1/elements/standard/setpackettype.cc
+END
+ratedsplitter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/click-router/!svn/ver/1/elements/standard/ratedsplitter.cc
+END
+annotationinfo.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/click-router/!svn/ver/1/elements/standard/annotationinfo.cc
+END
+randomerror.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/click-router/!svn/ver/1/elements/standard/randomerror.cc
+END
+priosched.hh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/click-router/!svn/ver/1/elements/standard/priosched.hh
+END
+notifierqueue.hh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/click-router/!svn/ver/1/elements/standard/notifierqueue.hh
+END
+portinfo.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/click-router/!svn/ver/1/elements/standard/portinfo.cc
+END
+bandwidthmeter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/click-router/!svn/ver/1/elements/standard/bandwidthmeter.cc
+END
+randomswitch.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/click-router/!svn/ver/1/elements/standard/randomswitch.cc
+END
+align.hh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/click-router/!svn/ver/1/elements/standard/align.hh
+END
+compblock.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/click-router/!svn/ver/1/elements/standard/compblock.cc
+END
+checkcrc32.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/click-router/!svn/ver/1/elements/standard/checkcrc32.cc
+END
+paint.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/click-router/!svn/ver/1/elements/standard/paint.cc
+END
+meter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/click-router/!svn/ver/1/elements/standard/meter.cc
+END
+bwratedsplitter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/click-router/!svn/ver/1/elements/standard/bwratedsplitter.cc
+END
+counter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/click-router/!svn/ver/1/elements/standard/counter.cc
+END
+discard.hh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/click-router/!svn/ver/1/elements/standard/discard.hh
+END
+staticswitch.hh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/click-router/!svn/ver/1/elements/standard/staticswitch.hh
+END
+classifier.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/click-router/!svn/ver/19/elements/standard/classifier.cc
+END
+burster.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/click-router/!svn/ver/1/elements/standard/burster.cc
+END
+rrsched.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/click-router/!svn/ver/1/elements/standard/rrsched.cc
+END
+messageelement.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/click-router/!svn/ver/1/elements/standard/messageelement.cc
+END
+quitwatcher.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/click-router/!svn/ver/1/elements/standard/quitwatcher.cc
+END
+unstrip.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/click-router/!svn/ver/1/elements/standard/unstrip.cc
+END
+rrswitch.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/click-router/!svn/ver/1/elements/standard/rrswitch.cc
+END
+quicknotequeue.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/click-router/!svn/ver/1/elements/standard/quicknotequeue.cc
+END
+paintswitch.hh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/click-router/!svn/ver/1/elements/standard/paintswitch.hh
+END
+bandwidthshaper.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/click-router/!svn/ver/1/elements/standard/bandwidthshaper.cc
+END
+scheduleinfo.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/click-router/!svn/ver/1/elements/standard/scheduleinfo.cc
+END
+checkpaint.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/click-router/!svn/ver/1/elements/standard/checkpaint.cc
+END
+delayshaper.hh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/click-router/!svn/ver/1/elements/standard/delayshaper.hh
+END
+switch.hh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/click-router/!svn/ver/1/elements/standard/switch.hh
+END
+threadsafequeue.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/click-router/!svn/ver/1/elements/standard/threadsafequeue.cc
+END
+tee.cc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/click-router/!svn/ver/1/elements/standard/tee.cc
+END
+linkunqueue.hh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/click-router/!svn/ver/1/elements/standard/linkunqueue.hh
+END
+ratedsource.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/click-router/!svn/ver/1/elements/standard/ratedsource.cc
+END
+staticpullswitch.hh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/click-router/!svn/ver/1/elements/standard/staticpullswitch.hh
+END
+averagecounter.hh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/click-router/!svn/ver/1/elements/standard/averagecounter.hh
+END
+striptonet.hh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/click-router/!svn/ver/1/elements/standard/striptonet.hh
+END
+storedata.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/click-router/!svn/ver/1/elements/standard/storedata.cc
+END
+hub.hh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/click-router/!svn/ver/1/elements/standard/hub.hh
+END
+alignmentinfo.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/click-router/!svn/ver/1/elements/standard/alignmentinfo.cc
+END

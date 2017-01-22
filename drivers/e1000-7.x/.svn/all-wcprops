@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/click-router/!svn/ver/1/drivers/e1000-7.x
+END
+pci.updates
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/click-router/!svn/ver/1/drivers/e1000-7.x/pci.updates
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/click-router/!svn/ver/1/drivers/e1000-7.x/COPYING
+END
+e1000.7
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/click-router/!svn/ver/1/drivers/e1000-7.x/e1000.7
+END
+ldistrib.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/click-router/!svn/ver/1/drivers/e1000-7.x/ldistrib.txt
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/click-router/!svn/ver/1/drivers/e1000-7.x/README
+END
+e1000.spec
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/click-router/!svn/ver/1/drivers/e1000-7.x/e1000.spec
+END

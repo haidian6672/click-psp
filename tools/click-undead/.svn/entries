@@ -1,0 +1,52 @@
+8
+
+dir
+28
+http://202.197.12.233:8080/svn/click-router/tools/click-undead
+http://202.197.12.233:8080/svn/click-router
+
+
+
+2013-08-31T07:02:40.609375Z
+1
+zxz
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+df28c4fd-dde6-d848-aaa4-224394e63efb
+
+Makefile.in
+file
+
+
+
+
+2013-09-03T01:16:00.359375Z
+bfd39155ef9912f60601ef51746fb075
+2013-08-31T07:02:40.609375Z
+1
+zxz
+
+click-undead.cc
+file
+
+
+
+
+2013-09-03T01:16:00.375000Z
+e36ddac7a4949237de4d1da018e4ff15
+2013-08-31T07:02:40.609375Z
+1
+zxz
+

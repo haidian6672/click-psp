@@ -1,0 +1,446 @@
+8
+
+dir
+28
+http://202.197.12.233:8080/svn/click-router
+http://202.197.12.233:8080/svn/click-router
+
+
+
+2013-10-05T06:56:25.343750Z
+28
+huangfeng
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+df28c4fd-dde6-d848-aaa4-224394e63efb
+
+config.mk.in
+file
+
+
+
+
+2013-09-03T01:16:45.500000Z
+9e813147c7ca307efd578d9ab433aa3c
+2013-08-31T07:02:40.609375Z
+1
+zxz
+
+m4
+dir
+
+configure
+file
+
+
+
+
+2013-09-03T01:16:45.578125Z
+5edc7e36a0915618a6fa57f38b8eb44b
+2013-08-31T07:02:40.609375Z
+1
+zxz
+
+Makefile.in
+file
+
+
+
+
+2013-09-03T01:16:45.593750Z
+c135593e0b207abda898f2c4b6f74c35
+2013-08-31T07:02:40.609375Z
+1
+zxz
+
+pathvars.h.in
+file
+
+
+
+
+2013-09-03T01:16:45.593750Z
+299506e7c43f738b8ae9957f8b167b5f
+2013-08-31T07:02:40.609375Z
+1
+zxz
+
+click-buildtool.in
+file
+
+
+
+
+2013-09-03T01:16:45.609375Z
+979525be419a67931d4f2cba1d4d9f3c
+2013-08-31T07:02:40.609375Z
+1
+zxz
+
+AUTHORS
+file
+
+
+
+
+2013-09-03T01:16:45.609375Z
+a059c3cd5b5dc5775b5af34295d58ee6
+2013-08-31T07:02:40.609375Z
+1
+zxz
+
+conf
+dir
+
+installch.in
+file
+
+
+
+
+2013-09-03T01:16:45.625000Z
+3abcada027185be2fd7ed42c8a5f361b
+2013-08-31T07:02:40.609375Z
+1
+zxz
+
+DISTFILES
+file
+
+
+
+
+2013-09-03T01:16:45.625000Z
+eb5171dd53f35e5024b2ae518c099f1a
+2013-08-31T07:02:40.609375Z
+1
+zxz
+
+depcomp
+file
+
+
+
+
+2013-09-03T01:16:45.640625Z
+534084afb552747d884a45353769fa29
+2013-08-31T07:02:40.609375Z
+1
+zxz
+
+config.guess
+file
+
+
+
+
+2013-09-03T01:16:45.640625Z
+771a35416db44127fb4a49c2f8d33a75
+2013-08-31T07:02:40.609375Z
+1
+zxz
+
+click-mkelemmap
+file
+
+
+
+
+2013-09-03T01:16:45.656250Z
+4d5166c3e51c5364c882656f588a44c0
+2013-08-31T07:02:40.609375Z
+1
+zxz
+
+config.sub
+file
+
+
+
+
+2013-09-03T01:16:45.656250Z
+114063a23d71a1baa025f19e6da1d5f5
+2013-08-31T07:02:40.609375Z
+1
+zxz
+
+tools
+dir
+
+apps
+dir
+
+linuxmodule
+dir
+
+doc
+dir
+
+lib
+dir
+
+INSTALL
+file
+
+
+
+
+2013-09-03T01:16:45.671875Z
+80ad10be78d8dda73584836fcfdd388b
+2013-08-31T07:02:40.609375Z
+1
+zxz
+
+COPYING
+file
+
+
+
+
+2013-09-03T01:16:45.671875Z
+4fe969f793001c62e70f5f0ceb25d21c
+2013-08-31T07:02:40.609375Z
+1
+zxz
+
+NEWS
+file
+
+
+
+
+2013-09-03T01:16:45.687500Z
+c8d233e9ccb6bbbd5241f67637b8a27f
+2013-08-31T07:02:40.609375Z
+1
+zxz
+
+test
+dir
+
+mkinstalldirs
+file
+
+
+
+
+2013-09-03T01:16:45.687500Z
+64e8ff72710e830f15a347863b848c7d
+2013-08-31T07:02:40.609375Z
+1
+zxz
+
+ns
+dir
+
+click-compile.in
+file
+
+
+
+
+2013-09-03T01:16:45.687500Z
+6df92a6b6411334ff50738036b662700
+2013-08-31T07:02:40.609375Z
+1
+zxz
+
+LICENSE
+file
+
+
+
+
+2013-09-03T01:16:45.703125Z
+510081234a140d5af5da47d3b5d6d75d
+2013-08-31T07:02:40.609375Z
+1
+zxz
+
+include
+dir
+
+configure.in
+file
+
+
+
+
+2013-09-03T01:16:45.718750Z
+16c46ad5074c89d741f216b68abcaf00
+2013-08-31T07:02:40.609375Z
+1
+zxz
+
+README
+file
+
+
+
+
+2013-09-03T01:16:45.718750Z
+dc07c29de0e71fdbb0c0cd579625e985
+2013-08-31T07:02:40.609375Z
+1
+zxz
+
+config.h.in
+file
+
+
+
+
+2013-09-03T01:16:45.718750Z
+2d21dacfd4c3c5c209c01f6df09b4af9
+2013-08-31T07:02:40.609375Z
+1
+zxz
+
+weconfig
+file
+
+
+
+
+2013-09-30T03:37:39.093750Z
+46b26b66d4e70fe10403826900e91cea
+2013-09-06T02:03:12.187500Z
+24
+zxz
+has-props
+
+config-linuxmodule.h.in
+file
+
+
+
+
+2013-09-03T01:16:45.734375Z
+75bff61c158afbba98eabb739990c627
+2013-08-31T07:02:40.609375Z
+1
+zxz
+
+config-userlevel.h.in
+file
+
+
+
+
+2013-09-03T01:16:45.750000Z
+cbfab3f7c038cfbbc5b038beff2a27af
+2013-08-31T07:02:40.609375Z
+1
+zxz
+
+userlevel
+dir
+
+FAQ
+file
+
+
+
+
+2013-09-03T01:16:45.750000Z
+5866960996814283da17e389fa5164b2
+2013-08-31T07:02:40.609375Z
+1
+zxz
+
+missing
+file
+
+
+
+
+2013-09-03T01:16:45.765625Z
+5d58f0dd4262171a71b65bd515d85d07
+2013-08-31T07:02:40.609375Z
+1
+zxz
+
+etc
+dir
+
+elements
+dir
+
+config-bsdmodule.h.in
+file
+
+
+
+
+2013-09-03T01:16:45.765625Z
+49177ca3b3463226b17535ab8109ba8f
+2013-08-31T07:02:40.609375Z
+1
+zxz
+
+aclocal.m4
+file
+
+
+
+
+2013-09-03T01:16:45.765625Z
+278638499bb84e9be5437177f8483f52
+2013-08-31T07:02:40.609375Z
+1
+zxz
+
+drivers
+dir
+
+bsdmodule
+dir
+
+config-ns.h.in
+file
+
+
+
+
+2013-09-03T01:16:45.781250Z
+b79cea567e754d55c989e1ae470f0e41
+2013-08-31T07:02:40.609375Z
+1
+zxz
+
+click.spec
+file
+
+
+
+
+2013-09-03T01:16:45.781250Z
+b64bb25d2ea921986de0a321f71d46a5
+2013-08-31T07:02:40.609375Z
+1
+zxz
+
+install-sh
+file
+
+
+
+
+2013-09-03T01:16:45.796875Z
+aded5875c5d5830de6653181e8ced19c
+2013-08-31T07:02:40.609375Z
+1
+zxz
+

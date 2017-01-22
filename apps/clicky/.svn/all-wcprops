@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/click-router/!svn/ver/1/apps/clicky
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/click-router/!svn/ver/1/apps/clicky/config.h.in
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/click-router/!svn/ver/1/apps/clicky/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/click-router/!svn/ver/1/apps/clicky/Makefile.in
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/click-router/!svn/ver/1/apps/clicky/configure.ac
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/click-router/!svn/ver/1/apps/clicky/AUTHORS
+END
+clicky.gtkrc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/click-router/!svn/ver/1/apps/clicky/clicky.gtkrc
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/click-router/!svn/ver/1/apps/clicky/Makefile.am
+END
+clicky.glade
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/click-router/!svn/ver/1/apps/clicky/clicky.glade
+END
+clicky.gladep
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/click-router/!svn/ver/1/apps/clicky/clicky.gladep
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/click-router/!svn/ver/1/apps/clicky/NEWS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/click-router/!svn/ver/1/apps/clicky/README
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/click-router/!svn/ver/1/apps/clicky/aclocal.m4
+END

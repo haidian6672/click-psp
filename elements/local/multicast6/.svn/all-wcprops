@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/click-router/!svn/ver/23/elements/local/multicast6
+END
+ip6multicasttable.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/click-router/!svn/ver/21/elements/local/multicast6/ip6multicasttable.cc
+END
+ip6fixpimsource.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/click-router/!svn/ver/21/elements/local/multicast6/ip6fixpimsource.cc
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/click-router/!svn/ver/21/elements/local/multicast6/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/click-router/!svn/ver/21/elements/local/multicast6/Makefile.in
+END
+ip6pimforwardingtable.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/click-router/!svn/ver/21/elements/local/multicast6/ip6pimforwardingtable.cc
+END
+ip6mcastetherencap.hh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/click-router/!svn/ver/21/elements/local/multicast6/ip6mcastetherencap.hh
+END
+debug.hh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/click-router/!svn/ver/21/elements/local/multicast6/debug.hh
+END
+config.log
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/click-router/!svn/ver/21/elements/local/multicast6/config.log
+END
+icmp6checksum.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/click-router/!svn/ver/21/elements/local/multicast6/icmp6checksum.cc
+END
+config.status
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/click-router/!svn/ver/21/elements/local/multicast6/config.status
+END
+ip6pim.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/click-router/!svn/ver/21/elements/local/multicast6/ip6pim.cc
+END
+ip6pimcontrol.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/click-router/!svn/ver/21/elements/local/multicast6/ip6pimcontrol.cc
+END
+ip6multicasttable.hh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/click-router/!svn/ver/21/elements/local/multicast6/ip6multicasttable.hh
+END
+ip6fixpimsource.hh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/click-router/!svn/ver/21/elements/local/multicast6/ip6fixpimsource.hh
+END
+ip6pimforwardingtable.hh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/click-router/!svn/ver/21/elements/local/multicast6/ip6pimforwardingtable.hh
+END
+ip6_liburn.click
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/click-router/!svn/ver/21/elements/local/multicast6/ip6_liburn.click
+END
+icmp6checksum.hh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/click-router/!svn/ver/21/elements/local/multicast6/icmp6checksum.hh
+END
+fixip6src.d
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/click-router/!svn/ver/21/elements/local/multicast6/fixip6src.d
+END
+mld.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/click-router/!svn/ver/21/elements/local/multicast6/mld.cc
+END
+fixip6src.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/click-router/!svn/ver/21/elements/local/multicast6/fixip6src.cc
+END
+ip6pim.hh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/click-router/!svn/ver/21/elements/local/multicast6/ip6pim.hh
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/click-router/!svn/ver/21/elements/local/multicast6/configure.ac
+END
+ip6pimcontrol.hh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/click-router/!svn/ver/21/elements/local/multicast6/ip6pimcontrol.hh
+END
+ip6mcastetherencap.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/click-router/!svn/ver/21/elements/local/multicast6/ip6mcastetherencap.cc
+END
+ip6protocoldefinitions.hh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/click-router/!svn/ver/23/elements/local/multicast6/ip6protocoldefinitions.hh
+END
+mld.hh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/click-router/!svn/ver/21/elements/local/multicast6/mld.hh
+END
+fixip6src.hh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/click-router/!svn/ver/21/elements/local/multicast6/fixip6src.hh
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/click-router/!svn/ver/21/elements/local/multicast6/Makefile
+END

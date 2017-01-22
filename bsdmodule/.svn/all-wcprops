@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/click-router/!svn/ver/1/bsdmodule
+END
+massage-vnode_if.pl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/click-router/!svn/ver/1/bsdmodule/massage-vnode_if.pl
+END
+clickfs_tree.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/click-router/!svn/ver/1/bsdmodule/clickfs_tree.cc
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/click-router/!svn/ver/1/bsdmodule/Makefile.in
+END
+modulepriv.hh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/click-router/!svn/ver/1/bsdmodule/modulepriv.hh
+END
+clickfs_vnops.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/click-router/!svn/ver/1/bsdmodule/clickfs_vnops.cc
+END
+kernelerror.hh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/click-router/!svn/ver/1/bsdmodule/kernelerror.hh
+END
+config.cc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/click-router/!svn/ver/1/bsdmodule/config.cc
+END
+clickfs_tree.hh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/click-router/!svn/ver/1/bsdmodule/clickfs_tree.hh
+END
+clickfs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/click-router/!svn/ver/1/bsdmodule/clickfs.cc
+END
+BSDmakefile
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/click-router/!svn/ver/1/bsdmodule/BSDmakefile
+END
+module_c.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/click-router/!svn/ver/1/bsdmodule/module_c.c
+END
+module.cc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/click-router/!svn/ver/1/bsdmodule/module.cc
+END
+sched.cc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/click-router/!svn/ver/1/bsdmodule/sched.cc
+END
+clickfs_element.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/click-router/!svn/ver/1/bsdmodule/clickfs_element.cc
+END
+kernelerror.cc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/click-router/!svn/ver/1/bsdmodule/kernelerror.cc
+END

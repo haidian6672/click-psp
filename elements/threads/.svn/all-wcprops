@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/click-router/!svn/ver/1/elements/threads
+END
+spinlockacquire.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/click-router/!svn/ver/1/elements/threads/spinlockacquire.cc
+END
+spinlockrelease.hh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/click-router/!svn/ver/1/elements/threads/spinlockrelease.hh
+END
+spinlockinfo.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/click-router/!svn/ver/1/elements/threads/spinlockinfo.cc
+END
+staticthreadsched.hh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/click-router/!svn/ver/1/elements/threads/staticthreadsched.hh
+END
+balancedthreadsched.hh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/click-router/!svn/ver/1/elements/threads/balancedthreadsched.hh
+END
+spinlockrelease.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/click-router/!svn/ver/1/elements/threads/spinlockrelease.cc
+END
+spinlockacquire.hh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/click-router/!svn/ver/1/elements/threads/spinlockacquire.hh
+END
+staticthreadsched.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/click-router/!svn/ver/1/elements/threads/staticthreadsched.cc
+END
+balancedthreadsched.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/click-router/!svn/ver/1/elements/threads/balancedthreadsched.cc
+END
+spinlockinfo.hh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/click-router/!svn/ver/1/elements/threads/spinlockinfo.hh
+END

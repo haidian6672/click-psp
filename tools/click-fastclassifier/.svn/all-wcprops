@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/click-router/!svn/ver/1/tools/click-fastclassifier
+END
+fc_classifier.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/click-router/!svn/ver/1/tools/click-fastclassifier/fc_classifier.cc
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/click-router/!svn/ver/1/tools/click-fastclassifier/Makefile.in
+END
+click-fastclassifier.hh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/click-router/!svn/ver/1/tools/click-fastclassifier/click-fastclassifier.hh
+END
+click-fastclassifier.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/click-router/!svn/ver/1/tools/click-fastclassifier/click-fastclassifier.cc
+END
+fc_ipclassifier.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/click-router/!svn/ver/1/tools/click-fastclassifier/fc_ipclassifier.cc
+END

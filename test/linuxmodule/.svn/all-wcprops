@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/click-router/!svn/ver/1/test/linuxmodule
+END
+clickfs-01.testie
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/click-router/!svn/ver/1/test/linuxmodule/clickfs-01.testie
+END
+ToHost-udpsocket-01.testie
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/click-router/!svn/ver/1/test/linuxmodule/ToHost-udpsocket-01.testie
+END
+ToHost-01.testie
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/click-router/!svn/ver/1/test/linuxmodule/ToHost-01.testie
+END
+deviceup-01.testie
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/click-router/!svn/ver/1/test/linuxmodule/deviceup-01.testie
+END

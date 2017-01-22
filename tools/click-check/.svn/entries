@@ -1,0 +1,52 @@
+8
+
+dir
+28
+http://202.197.12.233:8080/svn/click-router/tools/click-check
+http://202.197.12.233:8080/svn/click-router
+
+
+
+2013-08-31T07:02:40.609375Z
+1
+zxz
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+df28c4fd-dde6-d848-aaa4-224394e63efb
+
+Makefile.in
+file
+
+
+
+
+2013-09-03T01:16:00.171875Z
+a8f2076b23aa9cf883801f084b03151d
+2013-08-31T07:02:40.609375Z
+1
+zxz
+
+click-check.cc
+file
+
+
+
+
+2013-09-03T01:16:00.187500Z
+5b3a11e02cd5e1e724ef9a8ed4ea8b1e
+2013-08-31T07:02:40.609375Z
+1
+zxz
+

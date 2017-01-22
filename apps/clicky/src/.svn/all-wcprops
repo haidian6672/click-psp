@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/click-router/!svn/ver/1/apps/clicky/src
+END
+permstr.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/click-router/!svn/ver/1/apps/clicky/src/permstr.cc
+END
+interface.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/click-router/!svn/ver/1/apps/clicky/src/interface.c
+END
+crouter.hh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/click-router/!svn/ver/1/apps/clicky/src/crouter.hh
+END
+gathererror.hh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/click-router/!svn/ver/1/apps/clicky/src/gathererror.hh
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/click-router/!svn/ver/1/apps/clicky/src/Makefile.in
+END
+interface.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/click-router/!svn/ver/1/apps/clicky/src/interface.h
+END
+dstyle.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/click-router/!svn/ver/1/apps/clicky/src/dstyle.cc
+END
+xcallbacks.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/click-router/!svn/ver/1/apps/clicky/src/xcallbacks.c
+END
+wdiagram.hh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/click-router/!svn/ver/1/apps/clicky/src/wdiagram.hh
+END
+tmain.cc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/click-router/!svn/ver/1/apps/clicky/src/tmain.cc
+END
+cdriver.hh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/click-router/!svn/ver/1/apps/clicky/src/cdriver.hh
+END
+support.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/click-router/!svn/ver/1/apps/clicky/src/support.c
+END
+ddecor.hh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/click-router/!svn/ver/1/apps/clicky/src/ddecor.hh
+END
+scopechain.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/click-router/!svn/ver/1/apps/clicky/src/scopechain.cc
+END
+whandler.hh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/click-router/!svn/ver/1/apps/clicky/src/whandler.hh
+END
+support.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/click-router/!svn/ver/1/apps/clicky/src/support.h
+END
+clicky.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/click-router/!svn/ver/1/apps/clicky/src/clicky.cc
+END
+callbacks.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/click-router/!svn/ver/1/apps/clicky/src/callbacks.h
+END
+hvalues.hh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/click-router/!svn/ver/1/apps/clicky/src/hvalues.hh
+END
+dialogs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/click-router/!svn/ver/1/apps/clicky/src/dialogs.cc
+END
+crouter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/click-router/!svn/ver/1/apps/clicky/src/crouter.cc
+END
+gathererror.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/click-router/!svn/ver/1/apps/clicky/src/gathererror.cc
+END
+wmain.hh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/click-router/!svn/ver/1/apps/clicky/src/wmain.hh
+END
+transform.hh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/click-router/!svn/ver/1/apps/clicky/src/transform.hh
+END
+wdiagram.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/click-router/!svn/ver/1/apps/clicky/src/wdiagram.cc
+END
+rectsearch.hh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/click-router/!svn/ver/1/apps/clicky/src/rectsearch.hh
+END
+cdriver.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/click-router/!svn/ver/1/apps/clicky/src/cdriver.cc
+END
+ddecor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/click-router/!svn/ver/1/apps/clicky/src/ddecor.cc
+END
+dwidget.hh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/click-router/!svn/ver/1/apps/clicky/src/dwidget.hh
+END
+whandler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/click-router/!svn/ver/1/apps/clicky/src/whandler.cc
+END
+permstr.hh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/click-router/!svn/ver/1/apps/clicky/src/permstr.hh
+END
+hvalues.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/click-router/!svn/ver/1/apps/clicky/src/hvalues.cc
+END
+transform.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/click-router/!svn/ver/1/apps/clicky/src/transform.cc
+END
+wmain.cc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/click-router/!svn/ver/1/apps/clicky/src/wmain.cc
+END
+rectangle.hh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/click-router/!svn/ver/1/apps/clicky/src/rectangle.hh
+END
+dstyle.hh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/click-router/!svn/ver/1/apps/clicky/src/dstyle.hh
+END
+tmain.hh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/click-router/!svn/ver/1/apps/clicky/src/tmain.hh
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/click-router/!svn/ver/1/apps/clicky/src/Makefile.am
+END
+scopechain.hh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/click-router/!svn/ver/1/apps/clicky/src/scopechain.hh
+END
+ref.hh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/click-router/!svn/ver/1/apps/clicky/src/ref.hh
+END
+dwidget.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/click-router/!svn/ver/1/apps/clicky/src/dwidget.cc
+END

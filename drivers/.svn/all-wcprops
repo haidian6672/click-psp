@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/click-router/!svn/ver/1/drivers
+END
+e1000e-0.4.1.7-2010-02-25.polling.patch
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/click-router/!svn/ver/1/drivers/e1000e-0.4.1.7-2010-02-25.polling.patch
+END
+e1000-7.6.15.5-polling.patch
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/click-router/!svn/ver/1/drivers/e1000-7.6.15.5-polling.patch
+END
+e1000-7.3.20-polling.patch
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/click-router/!svn/ver/1/drivers/e1000-7.3.20-polling.patch
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/click-router/!svn/ver/1/drivers/README
+END

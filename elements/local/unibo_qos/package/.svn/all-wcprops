@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/click-router/!svn/ver/21/elements/local/unibo_qos/package
+END
+packet_anno.hh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/click-router/!svn/ver/21/elements/local/unibo_qos/package/packet_anno.hh
+END
+splitfirst.hh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/click-router/!svn/ver/21/elements/local/unibo_qos/package/splitfirst.hh
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/click-router/!svn/ver/21/elements/local/unibo_qos/package/Makefile.in
+END
+splitfirst.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/click-router/!svn/ver/21/elements/local/unibo_qos/package/splitfirst.cc
+END
+checkaveragelength.hh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/click-router/!svn/ver/21/elements/local/unibo_qos/package/checkaveragelength.hh
+END
+getssrc.hh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/click-router/!svn/ver/21/elements/local/unibo_qos/package/getssrc.hh
+END
+rtpclassifier.hh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/click-router/!svn/ver/21/elements/local/unibo_qos/package/rtpclassifier.hh
+END
+checkaveragelength.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/click-router/!svn/ver/21/elements/local/unibo_qos/package/checkaveragelength.cc
+END
+getssrc.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/click-router/!svn/ver/21/elements/local/unibo_qos/package/getssrc.cc
+END
+rtpclassifier.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/click-router/!svn/ver/21/elements/local/unibo_qos/package/rtpclassifier.cc
+END

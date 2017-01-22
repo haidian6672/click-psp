@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/click-router/!svn/ver/1/elements/ipsec
+END
+desp.cc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/click-router/!svn/ver/1/elements/ipsec/desp.cc
+END
+sha1.cc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/click-router/!svn/ver/1/elements/ipsec/sha1.cc
+END
+radixipseclookup.hh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/click-router/!svn/ver/1/elements/ipsec/radixipseclookup.hh
+END
+hmacsha1.hh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/click-router/!svn/ver/1/elements/ipsec/hmacsha1.hh
+END
+esp.hh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/click-router/!svn/ver/1/elements/ipsec/esp.hh
+END
+ipsecroutetable.hh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/click-router/!svn/ver/1/elements/ipsec/ipsecroutetable.hh
+END
+desp.hh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/click-router/!svn/ver/1/elements/ipsec/desp.hh
+END
+sha1.hh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/click-router/!svn/ver/1/elements/ipsec/sha1.hh
+END
+aes.cc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/click-router/!svn/ver/1/elements/ipsec/aes.cc
+END
+hmac.cc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/click-router/!svn/ver/1/elements/ipsec/hmac.cc
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/click-router/!svn/ver/1/elements/ipsec/README
+END
+ipsecencap.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/click-router/!svn/ver/1/elements/ipsec/ipsecencap.cc
+END
+satable.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/click-router/!svn/ver/1/elements/ipsec/satable.cc
+END
+des.cc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/click-router/!svn/ver/1/elements/ipsec/des.cc
+END
+sha1_impl.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/click-router/!svn/ver/1/elements/ipsec/sha1_impl.cc
+END
+sadatatuple.hh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/click-router/!svn/ver/1/elements/ipsec/sadatatuple.hh
+END
+hmac.hh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/click-router/!svn/ver/1/elements/ipsec/hmac.hh
+END
+aes.hh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/click-router/!svn/ver/1/elements/ipsec/aes.hh
+END
+ipsecencap.hh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/click-router/!svn/ver/1/elements/ipsec/ipsecencap.hh
+END
+hmacsha1.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/click-router/!svn/ver/1/elements/ipsec/hmacsha1.cc
+END
+des.hh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/click-router/!svn/ver/1/elements/ipsec/des.hh
+END
+radixipseclookup.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/click-router/!svn/ver/1/elements/ipsec/radixipseclookup.cc
+END
+satable.hh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/click-router/!svn/ver/1/elements/ipsec/satable.hh
+END
+esp.cc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/click-router/!svn/ver/1/elements/ipsec/esp.cc
+END
+sha1_impl.hh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/click-router/!svn/ver/1/elements/ipsec/sha1_impl.hh
+END
+ipsecroutetable.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/click-router/!svn/ver/1/elements/ipsec/ipsecroutetable.cc
+END

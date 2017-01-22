@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/click-router/!svn/ver/1/tools/click2xml
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/click-router/!svn/ver/1/tools/click2xml/Makefile.in
+END
+clickconfig.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/click-router/!svn/ver/1/tools/click2xml/clickconfig.dtd
+END
+xml2click.hh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/click-router/!svn/ver/1/tools/click2xml/xml2click.hh
+END
+click2xml.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/click-router/!svn/ver/1/tools/click2xml/click2xml.cc
+END
+xml2click.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/click-router/!svn/ver/1/tools/click2xml/xml2click.cc
+END

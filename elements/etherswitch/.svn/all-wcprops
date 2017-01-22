@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/click-router/!svn/ver/1/elements/etherswitch
+END
+bridgemessage.hh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/click-router/!svn/ver/1/elements/etherswitch/bridgemessage.hh
+END
+spantree.hh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/click-router/!svn/ver/1/elements/etherswitch/spantree.hh
+END
+debugbridge.hh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/click-router/!svn/ver/1/elements/etherswitch/debugbridge.hh
+END
+bridgemessage.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/click-router/!svn/ver/1/elements/etherswitch/bridgemessage.cc
+END
+spantree.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/click-router/!svn/ver/1/elements/etherswitch/spantree.cc
+END
+listenetherswitch.hh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/click-router/!svn/ver/1/elements/etherswitch/listenetherswitch.hh
+END
+debugbridge.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/click-router/!svn/ver/1/elements/etherswitch/debugbridge.cc
+END
+etherswitch.hh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/click-router/!svn/ver/1/elements/etherswitch/etherswitch.hh
+END
+listenetherswitch.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/click-router/!svn/ver/1/elements/etherswitch/listenetherswitch.cc
+END
+etherswitch.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/click-router/!svn/ver/1/elements/etherswitch/etherswitch.cc
+END

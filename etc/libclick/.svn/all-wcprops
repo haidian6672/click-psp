@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/click-router/!svn/ver/1/etc/libclick
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/click-router/!svn/ver/1/etc/libclick/Makefile.in
+END
+lc-configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/click-router/!svn/ver/1/etc/libclick/lc-configure.in
+END
+DISTFILES
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/click-router/!svn/ver/1/etc/libclick/DISTFILES
+END
+lc-libsrc-Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/click-router/!svn/ver/1/etc/libclick/lc-libsrc-Makefile.in
+END
+lc-Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/click-router/!svn/ver/1/etc/libclick/lc-Makefile.in
+END

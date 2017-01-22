@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/click-router/!svn/ver/1/test/userlevel
+END
+timewarp-01.testie
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/click-router/!svn/ver/1/test/userlevel/timewarp-01.testie
+END
+iprouter-01.testie
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/click-router/!svn/ver/1/test/userlevel/iprouter-01.testie
+END
+uhotswap-01.testie
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/click-router/!svn/ver/1/test/userlevel/uhotswap-01.testie
+END
+timer-systime-01.testie
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/click-router/!svn/ver/1/test/userlevel/timer-systime-01.testie
+END
+clp-01.testie
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/click-router/!svn/ver/1/test/userlevel/clp-01.testie
+END
+Script-signal-01.testie
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/click-router/!svn/ver/1/test/userlevel/Script-signal-01.testie
+END
+Script-signal-02.testie
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/click-router/!svn/ver/1/test/userlevel/Script-signal-02.testie
+END
+Script-signal-03.testie
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/click-router/!svn/ver/1/test/userlevel/Script-signal-03.testie
+END
+ControlSocket-llrpc-01.testie
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/click-router/!svn/ver/1/test/userlevel/ControlSocket-llrpc-01.testie
+END
+ControlSocket-llrpc-02.testie
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/click-router/!svn/ver/1/test/userlevel/ControlSocket-llrpc-02.testie
+END

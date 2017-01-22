@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/click-router/!svn/ver/1/apps/ClickController
+END
+RouterTreeModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/click-router/!svn/ver/1/apps/ClickController/RouterTreeModel.java
+END
+ClickException.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/click-router/!svn/ver/1/apps/ClickController/ClickException.java
+END
+StringUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/click-router/!svn/ver/1/apps/ClickController/StringUtils.java
+END
+ClickController.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/click-router/!svn/ver/1/apps/ClickController/ClickController.java
+END
+ControlSocket.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/click-router/!svn/ver/1/apps/ClickController/ControlSocket.java
+END
+NewConnectionDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/click-router/!svn/ver/1/apps/ClickController/NewConnectionDialog.java
+END
+Pair.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/click-router/!svn/ver/1/apps/ClickController/Pair.java
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/click-router/!svn/ver/1/apps/ClickController/README
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/click-router/!svn/ver/1/apps/ClickController/Util.java
+END

@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/click-router/!svn/ver/19/lib
+END
+master.cc
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/click-router/!svn/ver/1/lib/master.cc
+END
+selectset.cc
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/click-router/!svn/ver/1/lib/selectset.cc
+END
+nameinfo.cc
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/click-router/!svn/ver/1/lib/nameinfo.cc
+END
+bitvector.cc
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/click-router/!svn/ver/1/lib/bitvector.cc
+END
+task.cc
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/click-router/!svn/ver/1/lib/task.cc
+END
+fromfile.cc
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/click-router/!svn/ver/1/lib/fromfile.cc
+END
+timestamp.cc
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/click-router/!svn/ver/1/lib/timestamp.cc
+END
+ip6table.cc
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/click-router/!svn/ver/1/lib/ip6table.cc
+END
+packet.cc
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/click-router/!svn/ver/1/lib/packet.cc
+END
+bighashmap_arena.cc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/click-router/!svn/ver/1/lib/bighashmap_arena.cc
+END
+crc32.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/click-router/!svn/ver/1/lib/crc32.c
+END
+clp.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/click-router/!svn/ver/1/lib/clp.c
+END
+atomic.cc
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/click-router/!svn/ver/1/lib/atomic.cc
+END
+ipflowid.cc
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/click-router/!svn/ver/1/lib/ipflowid.cc
+END
+etheraddress.cc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/click-router/!svn/ver/1/lib/etheraddress.cc
+END
+ipaddress.cc
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/click-router/!svn/ver/1/lib/ipaddress.cc
+END
+exportstub.cc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/click-router/!svn/ver/1/lib/exportstub.cc
+END
+notifier.cc
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/click-router/!svn/ver/19/lib/notifier.cc
+END
+strerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/click-router/!svn/ver/1/lib/strerror.c
+END
+integers.cc
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/click-router/!svn/ver/1/lib/integers.cc
+END
+confparse.cc
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/click-router/!svn/ver/1/lib/confparse.cc
+END
+router.cc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/click-router/!svn/ver/19/lib/router.cc
+END
+timer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/click-router/!svn/ver/1/lib/timer.cc
+END
+straccum.cc
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/click-router/!svn/ver/1/lib/straccum.cc
+END
+gaprate.cc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/click-router/!svn/ver/1/lib/gaprate.cc
+END
+hashallocator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/click-router/!svn/ver/1/lib/hashallocator.cc
+END
+templatei.cc
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/click-router/!svn/ver/1/lib/templatei.cc
+END
+md5.cc
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/click-router/!svn/ver/1/lib/md5.cc
+END
+ino.cc
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/click-router/!svn/ver/1/lib/ino.cc
+END
+vectorv.cc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/click-router/!svn/ver/1/lib/vectorv.cc
+END
+error.cc
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/click-router/!svn/ver/1/lib/error.cc
+END
+element.cc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/click-router/!svn/ver/1/lib/element.cc
+END
+driver.cc
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/click-router/!svn/ver/1/lib/driver.cc
+END
+glue.cc
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/click-router/!svn/ver/1/lib/glue.cc
+END
+args.cc
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/click-router/!svn/ver/1/lib/args.cc
+END
+timerset.cc
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/click-router/!svn/ver/1/lib/timerset.cc
+END
+variableenv.cc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/click-router/!svn/ver/1/lib/variableenv.cc
+END
+userutils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/click-router/!svn/ver/1/lib/userutils.cc
+END
+routervisitor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/click-router/!svn/ver/1/lib/routervisitor.cc
+END
+ip6flowid.cc
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/click-router/!svn/ver/1/lib/ip6flowid.cc
+END
+ip6address.cc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/click-router/!svn/ver/1/lib/ip6address.cc
+END
+in_cksum.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/click-router/!svn/ver/1/lib/in_cksum.c
+END
+string.cc
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/click-router/!svn/ver/1/lib/string.cc
+END
+routerthread.cc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/click-router/!svn/ver/1/lib/routerthread.cc
+END
+handlercall.cc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/click-router/!svn/ver/1/lib/handlercall.cc
+END
+lexer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/click-router/!svn/ver/1/lib/lexer.cc
+END
+iptable.cc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/click-router/!svn/ver/1/lib/iptable.cc
+END
+archive.cc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/click-router/!svn/ver/1/lib/archive.cc
+END
+elemfilter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/click-router/!svn/ver/1/lib/elemfilter.cc
+END

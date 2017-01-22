@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/click-router/!svn/ver/21/elements/local/netflow/mkipfixtypes
+END
+cisco.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/click-router/!svn/ver/21/elements/local/netflow/mkipfixtypes/cisco.xml
+END
+schema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/click-router/!svn/ver/21/elements/local/netflow/mkipfixtypes/schema.xml
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/click-router/!svn/ver/21/elements/local/netflow/mkipfixtypes/Makefile.in
+END
+ietf.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/click-router/!svn/ver/21/elements/local/netflow/mkipfixtypes/ietf.xml
+END
+ipfixtypes.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/click-router/!svn/ver/21/elements/local/netflow/mkipfixtypes/ipfixtypes.py
+END

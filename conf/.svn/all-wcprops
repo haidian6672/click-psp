@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/click-router/!svn/ver/28/conf
+END
+test-clicky.click
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/click-router/!svn/ver/1/conf/test-clicky.click
+END
+simple-dsdv-userlevel.click
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/click-router/!svn/ver/1/conf/simple-dsdv-userlevel.click
+END
+click-mkclgw.pl
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/click-router/!svn/ver/1/conf/click-mkclgw.pl
+END
+test-clicky.ccss
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/click-router/!svn/ver/1/conf/test-clicky.ccss
+END
+udpcount.click
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/click-router/!svn/ver/1/conf/udpcount.click
+END
+sampler.click
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/click-router/!svn/ver/1/conf/sampler.click
+END
+make-dsdv-config.pl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/click-router/!svn/ver/1/conf/make-dsdv-config.pl
+END
+urewrite.click
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/click-router/!svn/ver/1/conf/urewrite.click
+END
+localdelay.click
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/click-router/!svn/ver/1/conf/localdelay.click
+END
+test-ping.click
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/click-router/!svn/ver/1/conf/test-ping.click
+END
+ip.clickpat
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/click-router/!svn/ver/1/conf/ip.clickpat
+END
+test-ping-userlevel.click
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/click-router/!svn/ver/1/conf/test-ping-userlevel.click
+END
+fastudpsrc.click
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/click-router/!svn/ver/1/conf/fastudpsrc.click
+END
+thomer-nat.click
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/click-router/!svn/ver/1/conf/thomer-nat.click
+END
+ipsec-router.click
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/click-router/!svn/ver/1/conf/ipsec-router.click
+END
+udpgen.click
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/click-router/!svn/ver/1/conf/udpgen.click
+END
+make-udpgen.pl
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/click-router/!svn/ver/1/conf/make-udpgen.pl
+END
+kernel.clickpat
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/click-router/!svn/ver/1/conf/kernel.clickpat
+END
+unarp.clickpat
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/click-router/!svn/ver/1/conf/unarp.clickpat
+END
+script-trianglewave.click
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/click-router/!svn/ver/1/conf/script-trianglewave.click
+END
+stridetest.click
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/click-router/!svn/ver/1/conf/stridetest.click
+END
+make-ip-conf.pl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/click-router/!svn/ver/19/conf/make-ip-conf.pl
+END
+make-dsr-config.pl
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/click-router/!svn/ver/1/conf/make-dsr-config.pl
+END
+mazu-nat.click
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/click-router/!svn/ver/1/conf/mazu-nat.click
+END
+delay.click
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/click-router/!svn/ver/1/conf/delay.click
+END
+test2.click
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/click-router/!svn/ver/1/conf/test2.click
+END
+test-tap.click
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/click-router/!svn/ver/1/conf/test-tap.click
+END
+test3.click
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/click-router/!svn/ver/1/conf/test3.click
+END
+example.clgw
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/click-router/!svn/ver/1/conf/example.clgw
+END
+make-udpcount.pl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/click-router/!svn/ver/1/conf/make-udpcount.pl
+END
+rewriter.click
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/click-router/!svn/ver/1/conf/rewriter.click
+END
+fromhost-tunnel.click
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/click-router/!svn/ver/1/conf/fromhost-tunnel.click
+END
+script-parabolawave.click
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/click-router/!svn/ver/1/conf/script-parabolawave.click
+END
+print-pings.click
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/click-router/!svn/ver/1/conf/print-pings.click
+END
+test-device.click
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/click-router/!svn/ver/1/conf/test-device.click
+END
+fake-iprouter.click
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/click-router/!svn/ver/1/conf/fake-iprouter.click
+END
+test.click
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/click-router/!svn/ver/1/conf/test.click
+END
+test-tun.click
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/click-router/!svn/ver/1/conf/test-tun.click
+END
+script-squarewave.click
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/click-router/!svn/ver/1/conf/script-squarewave.click
+END
+grid.click
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/click-router/!svn/ver/1/conf/grid.click
+END
+dnsproxy.click
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/click-router/!svn/ver/1/conf/dnsproxy.click
+END
+simple-dsdv.click
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/click-router/!svn/ver/1/conf/simple-dsdv.click
+END
+icmp6error.click
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/click-router/!svn/ver/1/conf/icmp6error.click
+END

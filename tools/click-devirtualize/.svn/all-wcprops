@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/click-router/!svn/ver/1/tools/click-devirtualize
+END
+signature.hh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/click-router/!svn/ver/1/tools/click-devirtualize/signature.hh
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/click-router/!svn/ver/1/tools/click-devirtualize/Makefile.in
+END
+signature.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/click-router/!svn/ver/1/tools/click-devirtualize/signature.cc
+END
+cxxclass.hh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/click-router/!svn/ver/1/tools/click-devirtualize/cxxclass.hh
+END
+specializer.hh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/click-router/!svn/ver/1/tools/click-devirtualize/specializer.hh
+END
+cxxclass.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/click-router/!svn/ver/1/tools/click-devirtualize/cxxclass.cc
+END
+click-devirtualize.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/click-router/!svn/ver/1/tools/click-devirtualize/click-devirtualize.cc
+END
+specializer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/click-router/!svn/ver/1/tools/click-devirtualize/specializer.cc
+END

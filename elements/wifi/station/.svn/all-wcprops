@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/click-router/!svn/ver/1/elements/wifi/station
+END
+beaconscanner.hh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/click-router/!svn/ver/1/elements/wifi/station/beaconscanner.hh
+END
+associationrequester.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/click-router/!svn/ver/1/elements/wifi/station/associationrequester.cc
+END
+beacontracker.hh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/click-router/!svn/ver/1/elements/wifi/station/beacontracker.hh
+END
+openauthrequester.hh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/click-router/!svn/ver/1/elements/wifi/station/openauthrequester.hh
+END
+beaconscanner.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/click-router/!svn/ver/1/elements/wifi/station/beaconscanner.cc
+END
+proberequester.hh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/click-router/!svn/ver/1/elements/wifi/station/proberequester.hh
+END
+beacontracker.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/click-router/!svn/ver/1/elements/wifi/station/beacontracker.cc
+END
+openauthrequester.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/click-router/!svn/ver/1/elements/wifi/station/openauthrequester.cc
+END
+associationrequester.hh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/click-router/!svn/ver/1/elements/wifi/station/associationrequester.hh
+END
+proberequester.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/click-router/!svn/ver/1/elements/wifi/station/proberequester.cc
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/click-router/!svn/ver/1/etc/samplepackage
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/click-router/!svn/ver/1/etc/samplepackage/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/click-router/!svn/ver/1/etc/samplepackage/Makefile.in
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/click-router/!svn/ver/1/etc/samplepackage/configure.ac
+END
+test.click
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/click-router/!svn/ver/1/etc/samplepackage/test.click
+END
+sampleelt.hh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/click-router/!svn/ver/1/etc/samplepackage/sampleelt.hh
+END
+sampleelt.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/click-router/!svn/ver/1/etc/samplepackage/sampleelt.cc
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/click-router/!svn/ver/1/etc/samplepackage/README
+END

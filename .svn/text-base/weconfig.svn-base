@@ -1,0 +1,1 @@
+./configure --disable-linuxmodule --enable-user-multithread --enable-select=select --enable-schedule-debugging --enable-local --enable-ip6

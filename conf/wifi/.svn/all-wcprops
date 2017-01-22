@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/click-router/!svn/ver/1/conf/wifi
+END
+pseudo-ibss.click
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/click-router/!svn/ver/1/conf/wifi/pseudo-ibss.click
+END
+associate.pl
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/click-router/!svn/ver/1/conf/wifi/associate.pl
+END
+write_handler
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/click-router/!svn/ver/1/conf/wifi/write_handler
+END
+dump.click
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/click-router/!svn/ver/1/conf/wifi/dump.click
+END
+sr2.click
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/click-router/!svn/ver/1/conf/wifi/sr2.click
+END
+srcr.click
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/click-router/!svn/ver/1/conf/wifi/srcr.click
+END
+set_channel.pl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/click-router/!svn/ver/1/conf/wifi/set_channel.pl
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/click-router/!svn/ver/1/conf/wifi/README
+END
+scan.pl
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/click-router/!svn/ver/1/conf/wifi/scan.pl
+END
+gen_config_roofnet.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/click-router/!svn/ver/1/conf/wifi/gen_config_roofnet.sh
+END
+station.click
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/click-router/!svn/ver/1/conf/wifi/station.click
+END
+sample.click
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/click-router/!svn/ver/1/conf/wifi/sample.click
+END
+gen_config_safe.pl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/click-router/!svn/ver/1/conf/wifi/gen_config_safe.pl
+END
+read_handler
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/click-router/!svn/ver/1/conf/wifi/read_handler
+END
+access-point.click
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/click-router/!svn/ver/1/conf/wifi/access-point.click
+END

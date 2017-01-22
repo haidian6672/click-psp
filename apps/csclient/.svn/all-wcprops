@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/click-router/!svn/ver/1/apps/csclient
+END
+csclient.hh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/click-router/!svn/ver/1/apps/csclient/csclient.hh
+END
+test.click
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/click-router/!svn/ver/1/apps/csclient/test.click
+END
+csclient.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/click-router/!svn/ver/1/apps/csclient/csclient.cc
+END

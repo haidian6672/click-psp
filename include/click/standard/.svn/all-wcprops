@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/click-router/!svn/ver/1/include/click/standard
+END
+addressinfo.hh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/click-router/!svn/ver/1/include/click/standard/addressinfo.hh
+END
+errorelement.hh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/click-router/!svn/ver/1/include/click/standard/errorelement.hh
+END
+storage.hh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/click-router/!svn/ver/1/include/click/standard/storage.hh
+END
+scheduleinfo.hh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/click-router/!svn/ver/1/include/click/standard/scheduleinfo.hh
+END
+alignmentinfo.hh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/click-router/!svn/ver/1/include/click/standard/alignmentinfo.hh
+END
+threadsched.hh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/click-router/!svn/ver/1/include/click/standard/threadsched.hh
+END
+portinfo.hh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/click-router/!svn/ver/1/include/click/standard/portinfo.hh
+END

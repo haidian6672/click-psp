@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/click-router/!svn/ver/1/elements/wifi/ap
+END
+associationresponder.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/click-router/!svn/ver/1/elements/wifi/ap/associationresponder.cc
+END
+openauthresponder.hh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/click-router/!svn/ver/1/elements/wifi/ap/openauthresponder.hh
+END
+beaconsource.hh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/click-router/!svn/ver/1/elements/wifi/ap/beaconsource.hh
+END
+proberesponder.hh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/click-router/!svn/ver/1/elements/wifi/ap/proberesponder.hh
+END
+stationtable.hh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/click-router/!svn/ver/1/elements/wifi/ap/stationtable.hh
+END
+openauthresponder.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/click-router/!svn/ver/1/elements/wifi/ap/openauthresponder.cc
+END
+associationresponder.hh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/click-router/!svn/ver/1/elements/wifi/ap/associationresponder.hh
+END
+beaconsource.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/click-router/!svn/ver/1/elements/wifi/ap/beaconsource.cc
+END
+proberesponder.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/click-router/!svn/ver/1/elements/wifi/ap/proberesponder.cc
+END
+stationtable.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/click-router/!svn/ver/1/elements/wifi/ap/stationtable.cc
+END

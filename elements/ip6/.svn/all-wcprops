@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/click-router/!svn/ver/1/elements/ip6
+END
+markip6header.hh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/click-router/!svn/ver/1/elements/ip6/markip6header.hh
+END
+decip6hlim.hh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/click-router/!svn/ver/1/elements/ip6/decip6hlim.hh
+END
+protocoltranslator64.hh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/click-router/!svn/ver/1/elements/ip6/protocoltranslator64.hh
+END
+protocoltranslator46.hh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/click-router/!svn/ver/1/elements/ip6/protocoltranslator46.hh
+END
+icmp6error.hh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/click-router/!svn/ver/1/elements/ip6/icmp6error.hh
+END
+getip6address.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/click-router/!svn/ver/1/elements/ip6/getip6address.cc
+END
+addresstranslator.hh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/click-router/!svn/ver/1/elements/ip6/addresstranslator.hh
+END
+checkip6header.hh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/click-router/!svn/ver/1/elements/ip6/checkip6header.hh
+END
+ip6encap.hh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/click-router/!svn/ver/1/elements/ip6/ip6encap.hh
+END
+setip6address.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/click-router/!svn/ver/1/elements/ip6/setip6address.cc
+END
+lookupip6route.hh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/click-router/!svn/ver/1/elements/ip6/lookupip6route.hh
+END
+markip6header.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/click-router/!svn/ver/1/elements/ip6/markip6header.cc
+END
+ip6fragmenter.hh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/click-router/!svn/ver/1/elements/ip6/ip6fragmenter.hh
+END
+decip6hlim.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/click-router/!svn/ver/1/elements/ip6/decip6hlim.cc
+END
+ip6print.hh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/click-router/!svn/ver/1/elements/ip6/ip6print.hh
+END
+protocoltranslator64.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/click-router/!svn/ver/1/elements/ip6/protocoltranslator64.cc
+END
+protocoltranslator46.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/click-router/!svn/ver/1/elements/ip6/protocoltranslator46.cc
+END
+icmp6error.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/click-router/!svn/ver/1/elements/ip6/icmp6error.cc
+END
+setip6dscp.hh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/click-router/!svn/ver/1/elements/ip6/setip6dscp.hh
+END
+addresstranslator.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/click-router/!svn/ver/1/elements/ip6/addresstranslator.cc
+END
+ip6routetable.hh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/click-router/!svn/ver/1/elements/ip6/ip6routetable.hh
+END
+ip6mirror.hh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/click-router/!svn/ver/1/elements/ip6/ip6mirror.hh
+END
+ip6encap.cc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/click-router/!svn/ver/1/elements/ip6/ip6encap.cc
+END
+checkip6header.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/click-router/!svn/ver/1/elements/ip6/checkip6header.cc
+END
+lookupip6route.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/click-router/!svn/ver/1/elements/ip6/lookupip6route.cc
+END
+ip6fragmenter.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/click-router/!svn/ver/1/elements/ip6/ip6fragmenter.cc
+END
+ip6print.cc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/click-router/!svn/ver/1/elements/ip6/ip6print.cc
+END
+getip6address.hh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/click-router/!svn/ver/1/elements/ip6/getip6address.hh
+END
+setip6dscp.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/click-router/!svn/ver/1/elements/ip6/setip6dscp.cc
+END
+ip6routetable.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/click-router/!svn/ver/1/elements/ip6/ip6routetable.cc
+END
+ip6mirror.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/click-router/!svn/ver/1/elements/ip6/ip6mirror.cc
+END
+setip6address.hh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/click-router/!svn/ver/1/elements/ip6/setip6address.hh
+END

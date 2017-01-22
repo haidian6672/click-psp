@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/click-router/!svn/ver/1/test/handlers
+END
+privatehandler-01.testie
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/click-router/!svn/ver/1/test/handlers/privatehandler-01.testie
+END
+handlercall-01.testie
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/click-router/!svn/ver/1/test/handlers/handlercall-01.testie
+END
+kernel-01.testie
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/click-router/!svn/ver/1/test/handlers/kernel-01.testie
+END
+expansion-01.testie
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/click-router/!svn/ver/1/test/handlers/expansion-01.testie
+END

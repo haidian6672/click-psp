@@ -1,0 +1,68 @@
+8
+
+dir
+28
+http://202.197.12.233:8080/svn/click-router/elements/local/unibo_qos
+http://202.197.12.233:8080/svn/click-router
+
+
+
+2013-09-06T01:44:15.531250Z
+21
+zxz
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+df28c4fd-dde6-d848-aaa4-224394e63efb
+
+configure
+file
+
+
+
+
+2013-09-30T03:37:36.968750Z
+ea0e56d44442ba48932301ea00d7104c
+2013-09-06T01:44:15.531250Z
+21
+zxz
+has-props
+
+Makefile.in
+file
+
+
+
+
+2013-09-30T03:37:36.968750Z
+1cdcd5663f73ea7c122184f2d1fb15ff
+2013-09-06T01:44:15.531250Z
+21
+zxz
+
+configure.ac
+file
+
+
+
+
+2013-09-30T03:37:36.984375Z
+3d50912d5eadac74809e1552e1618df8
+2013-09-06T01:44:15.531250Z
+21
+zxz
+
+package
+dir
+

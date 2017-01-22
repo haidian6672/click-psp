@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/click-router/!svn/ver/28/conf/zxzconf
+END
+simple_psp_router.click
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/click-router/!svn/ver/28/conf/zxzconf/simple_psp_router.click
+END
+pspgen.click
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/click-router/!svn/ver/28/conf/zxzconf/pspgen.click
+END
+mytestip.click
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/click-router/!svn/ver/27/conf/zxzconf/mytestip.click
+END
+origin-ip-3eth.click
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/click-router/!svn/ver/20/conf/zxzconf/origin-ip-3eth.click
+END
+printpsp.click
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/click-router/!svn/ver/13/conf/zxzconf/printpsp.click
+END
+mytest-ip-route.click
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/click-router/!svn/ver/27/conf/zxzconf/mytest-ip-route.click
+END
