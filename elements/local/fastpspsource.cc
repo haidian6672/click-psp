@@ -122,6 +122,8 @@ FastPSPSource::initialize(ErrorHandler *)
   udp->uh_ulen = htons(len);
   udp->uh_sum = 0;
 
+  printf("FastPSPSource::initialize() finished.\n");
+
   return 0;
 }
 
@@ -135,7 +137,7 @@ FastPSPSource::cleanup(CleanupStage)
 }
 
 Packet *
-FastPSPSource::push(int)
+FastPSPSource::pull(int)
 {
   Packet *p = 0;
 
@@ -155,6 +157,7 @@ FastPSPSource::push(int)
   }
 
   if(p) {
+    printf("FastPSPSource::pull() finish.\n");
     _count++;
     if(_count == 1)
       _first = click_jiffies();

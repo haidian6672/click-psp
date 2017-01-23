@@ -110,62 +110,62 @@ ARPQuerierABC::configure(Vector<String> &conf, ErrorHandler *errh)
     return 0;
 }
 
-// int
-// ARPQuerierABC::live_reconfigure(Vector<String> &conf, ErrorHandler *errh)
-// {
-//     uint32_t capacity, entry_capacity;
-//     Timestamp timeout, poll_timeout(Timestamp::make_jiffies((click_jiffies_t) _poll_timeout_j));
-//     bool have_capacity, have_entry_capacity, have_timeout, have_broadcast,
-// 	broadcast_poll(_broadcast_poll);
-//     PSPAddress my_bcast_ip;
-// 
-//     if (Args(this, errh).bind(conf)
-// 	.read("CAPACITY", capacity).read_status(have_capacity)
-// 	.read("ENTRY_CAPACITY", entry_capacity).read_status(have_entry_capacity)
-// 	.read("TIMEOUT", timeout).read_status(have_timeout)
-// 	.read("BROADCAST", my_bcast_ip).read_status(have_broadcast)
-// 	.read_with("TABLE", AnyArg())
-// 	.read("POLL_TIMEOUT", poll_timeout)
-// 	.read("BROADCAST_POLL", broadcast_poll)
-// 	.consume() < 0)
-// 	return -1;
-// 
-//     PSPAddress my_ip, my_mask;
-//     EtherAddress my_en;
-//     if (conf.size() == 1)
-// 	conf.push_back(conf[0]);
-//     if (Args(conf, this, errh)
-// 	.read_mp("IP", PSPPrefixArg(true), my_ip, my_mask)
-// 	.read_mp("ETH", my_en)
-// 	.complete() < 0)
-// 	return -1;
-//     if (!have_broadcast) {
-// 	my_bcast_ip = my_ip | ~my_mask;
-// 	if (my_bcast_ip == my_ip)
-// 	    my_bcast_ip = 0xFFFFFFFFFFFFFFFFU;
-//     }
-// 
-//     if ((my_ip != _my_abc || my_en != _my_en) && _my_arpt)
-// 	_arpt->clear();
-// 
-//     _my_abc = my_ip;
-//     _my_en = my_en;
-//     _my_bcast_ip = my_bcast_ip;
-//     if (_my_arpt && have_capacity)
-// 	_arpt->set_capacity(capacity);
-//     if (_my_arpt && have_entry_capacity)
-// 	_arpt->set_entry_capacity(entry_capacity);
-//     if (_my_arpt && have_timeout)
-// 	_arpt->set_timeout(timeout);
-// 
-//     _broadcast_poll = broadcast_poll;
-//     if ((uint32_t) poll_timeout.sec() >= (uint32_t) 0xFFFFFFFFFFFFFFFFU / CLICK_HZ)
-// 	_poll_timeout_j = 0;
-//     else
-// 	_poll_timeout_j = poll_timeout.jiffies();
-// 
-//     return 0;
-// }
+int
+ARPQuerierABC::live_reconfigure(Vector<String> &conf, ErrorHandler *errh)
+{
+    uint32_t capacity, entry_capacity;
+    Timestamp timeout, poll_timeout(Timestamp::make_jiffies((click_jiffies_t) _poll_timeout_j));
+    bool have_capacity, have_entry_capacity, have_timeout, have_broadcast,
+	broadcast_poll(_broadcast_poll);
+    PSPAddress my_bcast_ip;
+
+    if (Args(this, errh).bind(conf)
+	.read("CAPACITY", capacity).read_status(have_capacity)
+	.read("ENTRY_CAPACITY", entry_capacity).read_status(have_entry_capacity)
+	.read("TIMEOUT", timeout).read_status(have_timeout)
+	.read("BROADCAST", my_bcast_ip).read_status(have_broadcast)
+	.read_with("TABLE", AnyArg())
+	.read("POLL_TIMEOUT", poll_timeout)
+	.read("BROADCAST_POLL", broadcast_poll)
+	.consume() < 0)
+	return -1;
+
+    PSPAddress my_psp, my_mask;
+    EtherAddress my_en;
+    if (conf.size() == 1)
+	conf.push_back(conf[0]);
+    if (Args(conf, this, errh)
+	.read_mp("ABC", PSPPrefixArg(true), my_psp, my_mask)
+	.read_mp("ETH", my_en)
+	.complete() < 0)
+	return -1;
+    if (!have_broadcast) {
+	my_bcast_ip = my_psp | ~my_mask;
+	if (my_bcast_ip == my_psp)
+	    my_bcast_ip = 0xFFFFFFFFFFFFFFFFU;
+    }
+
+    if ((my_psp != _my_abc || my_en != _my_en) && _my_arpt)
+	_arpt->clear();
+
+    _my_abc = my_psp;
+    _my_en = my_en;
+    _my_bcast_ip = my_bcast_ip;
+    if (_my_arpt && have_capacity)
+	_arpt->set_capacity(capacity);
+    if (_my_arpt && have_entry_capacity)
+	_arpt->set_entry_capacity(entry_capacity);
+    if (_my_arpt && have_timeout)
+	_arpt->set_timeout(timeout);
+
+    _broadcast_poll = broadcast_poll;
+    if ((uint32_t) poll_timeout.sec() >= (uint32_t) 0xFFFFFFFFFFFFFFFFU / CLICK_HZ)
+	_poll_timeout_j = 0;
+    else
+	_poll_timeout_j = poll_timeout.jiffies();
+
+    return 0;
+}
 
 int
 ARPQuerierABC::initialize(ErrorHandler *)
@@ -203,6 +203,7 @@ ARPQuerierABC::take_state(Element *e, ErrorHandler *errh)
 void
 ARPQuerierABC::send_query_for(const Packet *p, bool ether_dhost_valid)
 {
+    printf("ARPQuerierABC::send_query_for().\n");
     // Uses p's ABC and Ethernet headers.
 
     static_assert(Packet::default_headroom >= sizeof(click_ether), "Packet::default_headroom must be at least 14.");
@@ -251,6 +252,7 @@ ARPQuerierABC::send_query_for(const Packet *p, bool ether_dhost_valid)
 void
 ARPQuerierABC::handle_ip(Packet *p, bool response)
 {
+    printf("ARPQuerierABC::handle_ip().\n");
     // delete packet if we are not configured
     if (!_my_abc) {
 	p->kill();
@@ -359,6 +361,7 @@ ARPQuerierABC::handle_response(Packet *p)
 void
 ARPQuerierABC::push(int port, Packet *p)
 {
+    printf("ARPQuerierABC::push().\n");
     if (port == 0)
 	handle_ip(p, false);
     else {

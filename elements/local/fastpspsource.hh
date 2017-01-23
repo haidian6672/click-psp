@@ -88,12 +88,12 @@ class FastPSPSource : public Element {
 
   const char *class_name() const	{ return "FastPSPSource"; }
   const char *port_count() const	{ return PORTS_0_1; }
-  const char *processing() const	{ return PUSH; }
+  const char *processing() const	{ return PULL; }
 
   int configure(Vector<String> &, ErrorHandler *);
   int initialize(ErrorHandler *);
   void cleanup(CleanupStage);
-  Packet *push(int);
+  Packet *pull(int);
 
   void add_handlers();
   void reset();

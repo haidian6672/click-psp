@@ -180,7 +180,7 @@ class ARPQuerierABC : public Element { public:
     void *cast(const char *name);
 
     int configure(Vector<String> &, ErrorHandler *);
-//    int live_reconfigure(Vector<String> &, ErrorHandler *);
+    int live_reconfigure(Vector<String> &, ErrorHandler *);
     bool can_live_reconfigure() const		{ return true; }
     int initialize(ErrorHandler *errh);
     void add_handlers();
